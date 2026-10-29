@@ -1,0 +1,3 @@
+tanggal_checkin,tanggal_checkout,tanggal_pesan,kode_pemesanan,tipe_kamar,status_kamar,kanal_pemesanan,status_reservasi,pendapatan
+2026-10-29,2026-11-01,2026-10-29,RS-001,Suite,Clean,Walk-in,Check-in,3600000
+2026-10-30,2026-11-04,2026-10-30,RS-002,Standard,Clean,Walk-in,Check-in,2250000
